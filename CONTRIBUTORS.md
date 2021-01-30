@@ -33,3 +33,5 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 </b></sub></a><br /><a href="https://github.com/swapnilsparsh/Rescue/commits?author=sourav-coder" title="Code">💻</a></td> 
      <td align="center"><a href="https://github.com/sakshikhachane"><img src="https://avatars1.githubusercontent.com/u/53635792?s=460&u=d33610db9174c55ca00f0817249d019004b9ae80&v=4" width="100px;" alt=""/><br /><sub><b>Sakshi Khachane
 </b></sub></a><br /><a href="https://github.com/swapnilsparsh/Rescue/commits?author=sakshikhachane" title="Code">💻</a></td> 
+ <td align="center"><a href="https://github.com/vrindabhatia999"><img src="https://avatars1.githubusercontent.com/u/53635792?s=460&u=d33610db9174c55ca00f0817249d019004b9ae80&v=4" width="100px;" alt=""/><br /><sub><b>Vrinda Bhatia
+</b></sub></a><br /><a href="https://github.com/swapnilsparsh/Rescue/commits?author=sakshikhachane" title="Code">💻</a></td> 
